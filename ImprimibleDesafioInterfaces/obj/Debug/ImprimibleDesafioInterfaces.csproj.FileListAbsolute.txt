@@ -1,0 +1,7 @@
+D:\Visual Studio\Trabajos\ImprimibleDesafioInterfaces\ImprimibleDesafioInterfaces\bin\Debug\ImprimibleDesafioInterfaces.exe.config
+D:\Visual Studio\Trabajos\ImprimibleDesafioInterfaces\ImprimibleDesafioInterfaces\bin\Debug\ImprimibleDesafioInterfaces.exe
+D:\Visual Studio\Trabajos\ImprimibleDesafioInterfaces\ImprimibleDesafioInterfaces\bin\Debug\ImprimibleDesafioInterfaces.pdb
+D:\Visual Studio\Trabajos\ImprimibleDesafioInterfaces\ImprimibleDesafioInterfaces\obj\Debug\ImprimibleDesafioInterfaces.csproj.AssemblyReference.cache
+D:\Visual Studio\Trabajos\ImprimibleDesafioInterfaces\ImprimibleDesafioInterfaces\obj\Debug\ImprimibleDesafioInterfaces.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Trabajos\ImprimibleDesafioInterfaces\ImprimibleDesafioInterfaces\obj\Debug\ImprimibleDesafioInterfaces.exe
+D:\Visual Studio\Trabajos\ImprimibleDesafioInterfaces\ImprimibleDesafioInterfaces\obj\Debug\ImprimibleDesafioInterfaces.pdb
